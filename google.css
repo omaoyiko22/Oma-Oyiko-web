@@ -1,0 +1,93 @@
+.go{
+   text-align: center;
+   font-family: arial;
+   font-weight: bolder;
+   font-size: 25px;
+}
+
+.p1{
+    text-align: center;
+    font-family: Calibri;
+    font-size: 30px;
+    margin-top: -10px;
+    position: relative;
+}
+
+.p2{
+    text-align: center;
+    margin-top: -20px;
+    font-family: Calibri;
+    font-size: 15px;
+    color: rgb(122, 118, 118);
+    font-weight: bolder;
+}
+
+.sec1{
+    display: flex;
+    background-color:  rgb(245, 243, 243);
+    margin: auto;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    position: relative;
+    box-shadow: inset 0px 0px 2px rgb(170, 169, 169), 0px 2px 0px rgb(170, 169, 169);
+
+}
+
+
+.img{
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+    position: absolute;
+    left: 70px;
+    bottom: 130px;
+}
+
+.put{
+    width: 163px;
+    height: 25px;
+    position: absolute;
+    left: 25px;
+    bottom: 85px;
+    border: none;
+    box-shadow: inset 0px 1px 1px rgb(170, 169, 169), 0px 0px 0px rgb(170, 169, 169);
+    border: 1px solid #dbdada;
+}
+
+.p3{
+    color: white;
+    background-color: blue;
+    padding: 10px;
+    text-align: center;
+    width: 149px;
+    position: absolute;
+    left: 25px;
+    height: 12px;
+    bottom: 30px;
+}
+
+.p5{
+    color: rgb(101, 101, 240);
+    position: absolute;
+    bottom: 15px;
+    right: 25px;
+    font-family:Calibri;
+    font-weight: bolder;
+    font-size: 10px;
+}
+
+.p6{
+    color: rgb(101, 101, 240);
+    font-size: 15px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.p7{
+    font-family:Calibri;
+    font-weight: bolder;
+    color: rgb(95, 93, 93);
+    text-align: center;
+    margin-top: 60px;
+}

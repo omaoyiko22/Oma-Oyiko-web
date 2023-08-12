@@ -1,0 +1,54 @@
+
+body{
+  background-color:rgb(215, 235, 252);
+}
+.main{
+  background-color: white;
+  width: 270px;
+  height: 450px;
+  border-radius: 20px;
+  margin-left: 39%;
+  margin-top: 50px;
+  position: relative;
+  box-shadow: inset 0.1px 0.1px 5px rgb(204, 203, 203), 0.1px 0.1px 8px rgb(204, 203, 203);
+
+}
+
+.d1{
+  background-color: rgb(237, 243, 242);
+  width:250px;
+  height:45px;
+  box-shadow: inset 1px 1px 5px rgb(170, 169, 169), 3px 3px 6px rgb(170, 169, 169);
+  position: absolute;
+  margin-top: 39px;
+  border-radius: 15px;
+  margin-left: 8px;
+}
+
+.p1{
+  right: 0px;
+  top: -36px;
+  font-family: Arial;
+  font-size: 39px;
+  position: absolute;
+}
+
+.grid{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  margin-top: 110px;
+  position: absolute;
+  column-gap: 25px;
+  margin-left: 6px;
+  row-gap: 25px;
+}
+
+.btn{
+  width: 45px;
+  height: 45px;
+  border-radius: 25px;
+  background-color: white;
+  font-family:Arial, Helvetica, sans-serif;
+  border: none;
+  box-shadow: 10px 10px 10px rgb(221, 219, 219);
+}
